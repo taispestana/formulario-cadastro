@@ -9,6 +9,6 @@ Este é um projeto de um **formulário** responsivo desenvolvido com **HTML** e 
 
 ## 🚀 Como Acessar 
 
-Para acessar basta entrar no site abaixo e escolher um local
+Para acessar basta entrar no site abaixo:
 - https://taispestana.github.io/formulario-cadastro/
 
